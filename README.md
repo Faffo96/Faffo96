@@ -1,5 +1,5 @@
 <div style="display: flex; flex-direction: row;">
-    <div>
+    <div style="flex-direction: column;">
         <h3>My best projects: </h3>
         <a href="https://epicode-todo.web.app/" target="_blank">Epicode Tasks App</a>
         <a href="https://epicode-quiz-clone.web.app/" target="_blank">Epicode Quiz Clone</a>
